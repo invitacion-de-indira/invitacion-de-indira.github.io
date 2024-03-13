@@ -1370,6 +1370,9 @@ section.final{
 div img{
   width: 100%;
 }
+div img.direccion{
+  margin-top: -85px;
+}
 img.fotoinicial{
   display: none;
 }
